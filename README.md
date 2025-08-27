@@ -1,4 +1,4 @@
-# Wiretapping Measurement Research
+# Wiretapping Measurement
 
 A comprehensive research framework for measuring and analyzing potential wiretapping activities and data leakage patterns in web environments. This project provides automated tools for web crawling, data collection, and analysis of sensitive information transmission patterns.
 
