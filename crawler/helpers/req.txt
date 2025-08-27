@@ -1,0 +1,1 @@
+pip install pandas google-cloud-bigquery google-api-core google-auth pyarrow
